@@ -20,12 +20,14 @@ created: 2026-03-14
 <!-- Update every Monday -->
 
 ### Focus
--
+- Build [[Projects/LeadGen AI Agent/index|LeadGen AI Agent]] — autonomous lead generation system
 
 ### Standups
 - [[Standups/]] — Daily async logs
 
 ### Active Projects
+- [[Projects/BidFlow/_context|BidFlow]] — AI-powered Contractor OS for Indian govt contractors. Primary product focus. Phase 0 validation. #priority/high
+- [[Projects/LeadGen AI Agent/index|LeadGen AI Agent]] — AI-powered lead gen for agency growth
 - [[Projects/index|All Projects]]
 
 ---
@@ -58,7 +60,8 @@ created: 2026-03-14
 
 ## Recent Decisions
 <!-- Auto-populated or manually linked -->
--
+- [[Decisions/2026-03-16-bidflow-strategy|2026-03-16: BidFlow as Primary Product Focus]]
+- [[Decisions/2026-03-14-leadgen-agent|2026-03-14: Build Internal LeadGen AI Agent]]
 
 ## Blockers
 <!-- Flag anything blocking progress -->
